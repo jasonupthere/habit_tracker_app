@@ -1,0 +1,13 @@
+{
+  "trained_at": "2026-04-19T15:40:06.106994Z",
+  "feature_columns": [
+    "day_of_week",
+    "prev_status",
+    "current_streak",
+    "missed_last_3"
+  ],
+  "metrics": {
+    "accuracy": 0.0,
+    "roc_auc": 0.0
+  }
+}
